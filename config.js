@@ -1,7 +1,12 @@
 module.exports.config = {
-    // Bot status
+    // Bot status juegos y/o mensajes
     "statusDisplay": [1239260,539720],
-
+    //USER
+    "user": 'gcmetro',
+    //PASS
+    "password": 'Change88!',
+    
+    
     // Ignored Accounts
     "ignoredAccounts": [76561199247902802, 76561199003979511],
 
