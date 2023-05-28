@@ -7,8 +7,8 @@ function SLEEP(sec) { return new Promise(r => setTimeout(r, sec * 1000)) };
 
 const SENPAY = new steamUser(); let userLogs = {};
 const logOptions = {
-    accountName: "gcmetro",
-    password: "Change88!",
+    accountName: config.user,
+    password: config.password,
     // twoFactorCode: steamTotp.generateAuthCode(process.env.SHARED)
 }
 
