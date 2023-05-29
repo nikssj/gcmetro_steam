@@ -1,6 +1,6 @@
 module.exports.config = {
     // Bot status juegos y/o mensajes
-    "statusDisplay": [1239260,539720],
+    "statusDisplay": [1239260,539720,1568590],
     //USER
     "user": 'gcmetro',
     //PASS
