@@ -6,7 +6,6 @@ module.exports.config = {
     //PASS
     "password": 'Change88!',
     
-    
     // Ignored Accounts
     "ignoredAccounts": [76561199247902802, 76561199003979511],
 
