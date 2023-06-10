@@ -1,1 +1,1 @@
-# Simple Steam Chat Auto Response Bot
+# Simple Steam Chat Auto Response Bot for GCMETRO
